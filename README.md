@@ -106,5 +106,5 @@ O con los distintos tipos de software
 Las licencias están si son de código abierto disponibles para todo desarrollador dev
 Helena luengo IA
 Importlibrary:)
-Https://Github./helenaluengobyandreatobar
+Https://Github.com/helenaluengobyandreatobar
 Dall-Evolution
